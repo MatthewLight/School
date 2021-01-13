@@ -1,6 +1,6 @@
 import { Router } from 'express';
 import { getTeachers, getTeacherById, createTeacher,
-  updateTeacher, deleteTeacher, deleteAllTeachers, getTargetMathTeachers } from './db';
+  updateTeacher, deleteTeacher, deleteAllTeachers, getTargetMathTeachers } from '../db';
 
 const router = Router();
 

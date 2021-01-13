@@ -1,1 +1,1 @@
-export const studentGroup = 'KN 101';
+export const studentGroup = 'KN-101';

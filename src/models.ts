@@ -10,8 +10,6 @@ export enum Lessons {
   biology = 'Biology'
 }
 
-const d: Date = new Date();
-
 export interface Teacher {
   firstName: string,
   lastName: string,

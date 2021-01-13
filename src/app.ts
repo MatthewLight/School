@@ -1,6 +1,6 @@
 import express from 'express';
 import * as dotenv from 'dotenv';
-import routes from './routes';
+import routes from './routes/routes';
 
 const app = express();
 
